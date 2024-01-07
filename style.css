@@ -1,0 +1,24 @@
+html {
+    font-family: 'Caveat', cursive;
+font-family: 'Rubik Doodle Shadow', system-ui;
+}
+body {
+    background-color: black;
+}
+.tweleve97 {
+    font-family: 'Caveat', cursive;
+font-family: 'Rubik Doodle Shadow', system-ui;
+    color: white;
+}
+.rock {
+    font-family: 'Caveat', cursive;
+font-family: 'Rubik Doodle Shadow', system-ui;
+    color: white;
+}
+.one297 {
+    position: relative;
+    top: auto;
+    left: auto;
+    width: 500px;
+    height: 500px;
+}
