@@ -56,7 +56,7 @@ body{
     letter-spacing: 6px;
 }
 .agileits-logo h1 a img{
-    width: 13%;
+    width: 15%;
 }
 /*-- social-icons --*/
 .agileinfo-social-grids{
@@ -234,7 +234,7 @@ body{
 /*-- //introduction --*/
 /*-- about --*/
 .about,.contact{
-    background: #050A30;
+    background: #0172BA;
 }
 .about-heading h3{
 	color:#FFFFFF;
@@ -1039,7 +1039,7 @@ footer p a:hover{
 		font-size: .8em;
 	}
 	.agileits-logo h1 a img {
-		width: 13%;
+		width: 15%;
 	}
 	.w3ls-text {
 		width: 65%;
